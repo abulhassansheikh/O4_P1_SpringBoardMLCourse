@@ -90,7 +90,7 @@ Extract.status_code
 
 # 2. Convert the returned JSON object into a Python dictionary.
 jsonData = json.loads(Extract.text)
-print(jsonData)
+head(jsonData)
 print(type(jsonData))
 
 # 3. Calculate what the highest and lowest opening prices were for the stock in 
@@ -121,16 +121,31 @@ for d in range(0,254):
 max(AllPriceDiff)#2.81
 
 
-# 5. What was the largest change between any two days (based on Closing Price)?
+# 5. What was the largest change between two consecutive days (based on Closing Price)?
 ClosingDiff = [0]
 
 for d in range(0,254):
-    ClosingOne = jsonData["dataset"]["data"][d][4]
+    ClosingPrice = jsonData["dataset"]["data"][d][4]
+    PriorClosingPrice = jsonData["dataset"]["data"][d+1][4]
+
+    Diff = ClosingPrice - PriorClosingPrice
+    ClosingDiff.append(Diff)
+            
+print("Largest change between two consecutive days :", round(max(ClosingDiff), 1))
+
+
+#5. What was the largest change between any two days (based on Closing Price)?
+ClosingDiffAll = [35]
+
+for d in range(0,254):
+    ClosingPrice = jsonData["dataset"]["data"][d][4]
+    ClosingDiffAll.append(ClosingPrice)
     
-    #Diff = HighPrice - LowPrice
-    ClosingDiff.append(ClosingOne)
-        
-sum(AllPriceDiff)
+Large = max(ClosingDiffAll)
+Small = min(ClosingDiffAll)
+            
+print("Largest change between any two days :", round(Large - Small, 1))
+
 
 # 6. What was the average daily trading volume during this year?
 TradingVolume = [0]
