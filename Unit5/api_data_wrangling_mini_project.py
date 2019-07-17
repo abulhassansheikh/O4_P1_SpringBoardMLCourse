@@ -15,7 +15,7 @@
 
 # Store the API key as a string - according to PEP8, constants are always 
 #named in all upper case
-API_KEY = ''
+API_KEY = 'xS1u4awxhU3Pc6anb9WL'
 
 
 # Qaundl has a large number of data sources, but, unfortunately, most of them 
@@ -51,22 +51,29 @@ API_KEY = ''
 #very nested, so make sure you read up on indexing dictionaries in the 
 #documentation provided above.
 
-# In[ ]:
-
+#----
 
 # First, import the relevant modules
 
-
-# In[ ]:
-
+import requests
+import collections 
+import json
+#----
 
 # Now, call the Quandl API and pull out a small sample of the data 
 #(only one day) to get a glimpse
 # into the JSON structure that will be returned
 
+data = {"database_code":"FSE", 
+        "dataset_code":"AFX_X"}
 
-# In[ ]:
+FSE/AFX_X.json?api_key=xS1u4awxhU3Pc6anb9WL
 
+url = "https://www.quandl.com/api/v3/datasets/FSE/AFX_X.json?start_date=2019-07-01&end_date=2019-07-01&api_key=xS1u4awxhU3Pc6anb9WL"
+test = requests.get(url)
+test.status_code
+jsonData = json.loads(test.text)
+#----
 
 # Inspect the JSON structure of the object you created, and take note of how 
 #nested it is,
@@ -77,16 +84,85 @@ API_KEY = ''
 # 
 # 1. Collect data from the Franfurt Stock Exchange, for the ticker AFX_X, for 
 #the whole year 2017 (keep in mind that the date format is YYYY-MM-DD).
+url = "https://www.quandl.com/api/v3/datasets/FSE/AFX_X.json?start_date=2017-01-01&end_date=2017-12-31&api_key=xS1u4awxhU3Pc6anb9WL"
+Extract = requests.get(url)
+Extract.status_code
+
 # 2. Convert the returned JSON object into a Python dictionary.
+jsonData = json.loads(Extract.text)
+print(jsonData)
+print(type(jsonData))
+
 # 3. Calculate what the highest and lowest opening prices were for the stock in 
 #this period.
-# 4. What was the largest change in any one day (based on High and Low price)?
-# 5. What was the largest change between any two days (based on Closing Price)?
-# 6. What was the average daily trading volume during this year?
-# 7. (Optional) What was the median trading volume during this year. 
-#(Note: you may need to implement your own function for calculating the median.)
 
-# In[ ]:
+AllOpeningPrices = [50]
+
+for d in range(0,254):
+    OpeningPrice = jsonData["dataset"]["data"][d][1]
+    
+    if OpeningPrice != None:
+        AllOpeningPrices.append(OpeningPrice)
+
+max(AllOpeningPrices) #53.11
+min(AllOpeningPrices) #34.0
+
+    
+# 4. What was the largest change in any one day (based on High and Low price)?
+AllPriceDiff = [0, 0]
+
+for d in range(0,254):
+    HighPrice = jsonData["dataset"]["data"][d][2]
+    LowPrice = jsonData["dataset"]["data"][d][3]
+    
+    Diff = round(HighPrice - LowPrice, 2)
+    AllPriceDiff.append(Diff)
+        
+max(AllPriceDiff)#2.81
+
+
+# 5. What was the largest change between any two days (based on Closing Price)?
+ClosingDiff = [0]
+
+for d in range(0,254):
+    ClosingOne = jsonData["dataset"]["data"][d][4]
+    
+    #Diff = HighPrice - LowPrice
+    ClosingDiff.append(ClosingOne)
+        
+sum(AllPriceDiff)
+
+# 6. What was the average daily trading volume during this year?
+TradingVolume = [0]
+
+for d in range(0,254):
+    Volume = jsonData["dataset"]["data"][d][6]
+    
+    #Diff = HighPrice - LowPrice
+    TradingVolume.append(Volume)
+        
+Total2017 = sum(TradingVolume)
+Avg2017 = Total2017/(len(TradingVolume)-1) #89299 Trading Volume per day
+
+#----
+#End
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
