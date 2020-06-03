@@ -1,0 +1,373 @@
+A proudly Canadian retail company, Sobeys began in 1907 as a small meat delivery business in Stellarton, Nova Scotia. Today, Sobeys Inc. serves the food shopping needs of Canadians with approximately 1,500 stores in all 10 provinces under retail banners that include Sobeys, Safeway, IGA, Foodland, FreshCo, Thrifty Foods, and Lawton’s Drug Stores as well as in-store pharmacies, liquor and more than 350 retail fuel locations.
+
+ 
+
+Together with our 123,000 employees and franchise affiliates and a collective passion for delivering exceptional food and shopping experiences, Sobeys’ purpose is to improve the lives of Canadians by helping them Eat Better, Feel Better and Do Better.
+
+ 
+
+ 
+
+All career opportunities will be open a minimum of 5 business days from the date of posting.
+
+ 
+
+Overview
+This is an exciting opportunity to join our Innovation and Strategy team at the ground level ! You will be part of our innovation hub located in downtown Toronto where your desire for impact will only be matched by your inate ability to collaborate with other like minded individuals to come up with creative solutions to our retail data science problems.
+
+Job Description
+In this role, you’ll have the chance to roll up your sleeves and apply data science methods and analytics to real-world business situations.  The Data Scientist will play a key role in enhancing our advanced analytics and machine learning capabilities within the organization.  You will be responsible for the building, training, scoring and monitoring of machine learning models. You will work closely with various stakeholders throughout our business to understand business needs and develop solutions through machine learning or other advanced analytics/predictive modeling techniques.
+
+Job Requirements
+MS/PHD or equivalent in Computer Science, Engineering, Statistics, Mathematics, or related technical field
+Experience in developing machine-learning algorithms, statistical and mathematical optimization models, and simulation and visualization tools
+Strong understanding of regression modeling, time series analysis, cluster analysis, machine-learning concepts such as supervised and unsupervised learning, classification, random forest, neural nets, etc.
+Ability to identify predictive attributes of data sets and perform feature engineering to improve machine learning results
+Experience with manipulating big data sets via SQL able to process, filter and present large quantities of data
+Experience in one or more programming languages (e.g. Python, R, Scala, etc.)
+Experience with Databricks, Tableau and AutoML tools an asset
+Sobeys is committed to accommodating applicants with disabilities throughout the hiring process and will work with applicants requesting accommodation at any stage of this process.
+
+With over six decades of business and technical experience in the mining, energy, and infrastructure sectors, we understand that challenges are changing rapidly in every industry. We respond quickly with solutions that are smarter, more efficient, and innovative. We draw upon our 9,000 staff with experience in over 150 countries to challenge the status quo and create positive change for our clients, our employees, and the communities we serve.
+
+Scope of Position
+
+Hatch is seeking a Senior Data Scientist to have a key technical role in its Data Science business. We are looking for someone motivated by the desire to deliver sound, effective and sustainable solutions that demonstrate improved business outcomes. The successful candidate will have an opportunity to work on pioneering projects which involves the implementation of leading edge digital and automation technologies and processes.
+
+Alongside existing senior staff, you will support Hatch Digital leadership in sustaining the technology advancement of Hatch Digital globally. Join a collaborative, industry knowledgeable team who welcome fresh ideas and innovative thinking.
+
+Working with the Global Data Science Center of Excellence, you will help lead the development of data science-based offerings for Hatch Digital markets to deliver clear value for our clients. The candidate will have solid technical knowledge and experience, as well as a documented history of assisting organizations establish solutions using advanced analytics and data science supporting process optimization and digital transformation.
+
+Primary Responsibilities:
+• Understand the business need for analytics model, and determine, define and deploy predictive/prescriptive analytic solutions to meet business objectives;
+• Provide guidance in the selection of best fit methods, define algorithms, validate and deploy data analytics models to achieve business results;
+• Work with a team of data scientists in the development and deployment of data analytics tools;
+• Use machine learning methods to model and predict business outcomes, such as classification of errors;
+• Use advanced mathematical techniques (correlation, regression, time series analysis, analysis of variance, etc.) to forecast business outcomes;
+• Evaluate model fit and performance using a series of techniques (e.g. RMSE, RMSEA, MAE, MSE, MAPE, Accuracy, Recall, Precision, Etc.);
+• Develop high level and automated data visualizations to capture time series trends and summarize burn down of data exceptions;
+• Create recurrent summary reports of data exception metrics, trends, outliers, etc..
+
+Qualifications (Required):
+• Bachelor's degree in Engineering (preferably Chemical, Systems, Mechanical, Civil or Electrical), Computer Science, Mathematics or equivalent from an accredited University and 5+ years of related work experience, or (preferred) a postgraduate degree with 3+ years of related work experience, or an equivalent combination of education and experience;
+• Solid knowledge and experience with a range of ML methods (e.g., multivariate analysis, cluster analysis, decision trees, random forest, SVM, neural networks, logistics regression)
+• Experience developing and applying innovative data analytics solutions in industrial and business settings.
+• Experience with business case analysis (problem identification, quantitative modeling and problem solving).
+• Hands-on experience with R, Python or equivalent tools to manipulate and transform data;
+• Exposure to Data visualization tools and techniques;
+• Exceptional skills and abilities to clearly communicate to customers through graphical representation / visualizations, reports, algorithms, models, and dashboards.
+
+Assets:
+• Experience with deep learning frameworks (Keras, TensorFlow, PyTorch) and cloud technologies (AWS, GCP, MS Azure) is desirable.
+• Experience working with databases (Teradata, Oracle, SQL, NoSQL dbs, etc.) and interpreting data;
+• Experience developing software user interfaces
+• Knowledge and/or experience applying mathematical optimization methods (linear programming, nonlinear programming and/or mixed-integer linear programming)
+
+Skills:
+• Keenly interested in solving very challenging client problems;
+• Willingness to take technological risks involved in creating innovative solutions;
+• Demonstrated ability to work both collaboratively and independently when appropriate;
+• Ability to build relationships and effectively influence colleagues, clients and stakeholders;
+• Excellent communication, interpersonal and teamwork skills in complex and changing environments.
+
+We are committed to fostering a workforce in each of our locations that reflects the diversity of the communities in which we operate. Hatch is an Equal Opportunity Employer that considers employment applicants without regard to age, race, colour, national origin, citizenship, religion, creed, sex, sexual orientation, marital status, disability or any other protected status. If you have any special needs requirements, please let us know. We will do our utmost to accommodate, in accordance with applicable local legislation
+
+Our client is one of the leading organizations in the Data science and IOT space. It is global organization, and is growing exponentially since past few years. To fuel its growth further, it's looking for a Data Scientist based out of its office in Toronto, Canada.
+
+Job Description
+• You will help the team to improve upon current methods and models. With a practical mindset, you will bring these models into a production environment.
+• Your software development experience will allow you to closely collaborate with our Engineering team to improve our models and push them through our release process.
+
+Depending on your domain of expertise:
+• You will work with big data (GPS fixes and sensor data) from hundreds of thousands of users.
+• You will train algorithms related to activity detection (type of transports, home/work location, etc.) and human behavior (commuting, sporting, shopping, etc.).
+• You will create machine learning pipelines capable of extracting insights from social interactions between users on our platforms
+• You will design context-aware recommender systems
+
+The Successful Applicant
+
+Desired skills and expertise
+• You have a masters degree or PhD in computer science or a related field.
+• You are fluent in Python programming and its machine learning stack
+• You are an expert in machine learning and data modeling.
+• You have knowledge/experience with software engineering and deployment to production
+• You have experience with at least one of the fields listed above.
+• You possess a deep understanding of clustering, manifold learning and predictive modeling techniques.
+• You can use big data tools such as Spark for development
+• You can work independently and take matters into your own hands.
+
+Experience with any of the following is considered a plus:
+• Sensor data modeling from mobile devices or wearables
+• Data engineering technologies (Spark, Kafka, database,...)
+• Java
+• Mobile programming (Android or iOS)
+
+Nulogy is a rare company. We value autonomy, mastery, and purpose for our employees and a highly transparent and honest culture. Our motto is: It’s not just business, it’s personal.
+
+Nulogy also has a solid business model, generating real revenue from huge concrete benefits provided to customers around the world serving the supply chains of household. For our rapid growth, Nulogy was recognized as a 2018 Deloitte Fast 500 company, which makes us one of the fastest growing companies in North America. As a trusted industry partner, we were named a 2018 Food Logistics Top 100 Software Provider.
+
+By joining Nulogy, you will work in intelligent, high performance teams on very challenging problems that make real global impact.
+
+YOUR MISSION
+
+Identify groundbreaking solutions using Nulogy data and bring them to life through leveraging data mining and machine learning techniques
+
+JOB PURPOSE
+
+As a Data Scientist at Nulogy, you will join an ambitious data science team that is transforming the way contract packagers and CPGs do business. You will work extensively with Data scientists, Product Managers and Data Engineers to create solutions to complex problems using machine learning, and you will help bring these solutions to life.
+
+KEY RESPONSIBILITIES
+• Research, develop and build machine learning models that generate insightful recommendations for customers
+• Work alongside data scientists and data engineers to deploy models in production
+• Work alongside product management and other stakeholders to translate business requirements into machine learning functionality
+• Conduct statistical analysis to discover trends in data
+• Develop optimization algorithms to improve customers operations
+• Help distill complex machine learning products to various audiences
+• Identify data driven opportunities across the Nulogy platform and communicate findings to the appropriate stakeholders
+• Develop domain expertise in supply chain
+
+EDUCATION
+• Degree in Computer Science, Statistics, Math, Operations Research, Engineering or equivalent
+• MSc in related fields a big plus
+
+EXPERIENCE
+• 3-5 years of industry experience working as a Data Scientist
+• Deep knowledge in machine learning, data mining and statistics
+• Extensive experience using Python (pandas, numpy, scikit-learn, etc.)
+• Expert SQL experience
+• Exposure to optimization and scheduling algorithms
+• Experience working in an agile environment
+
+NICE TO HAVE
+• Strong software engineering fundamentals
+• Expertise in optimization and operations research
+• Strong business acumen
+
+ABOUT YOU
+• You are an expert in python
+• You are an expert in applied statistics, data mining and machine learning
+• You are a creative problem solver
+• You are capable of narrating the story behind the data to a non-technical audience
+• You value autonomy, and are capable of owning data projects from start to finish
+• You are comfortable working with messy data
+• You have experience with SQL
+
+Machine learning and Artificial Intelligence (ML and AI) is a strategic initiative in risk management. The candidate will participate in new projects and be hands-on along side internal experts. The candidate will have a concrete and meaningful contribution to the final deliverables and is expect to show autonomy and ownership of their deliverables.
+
+The candidate will be responsible for identifying AI and ML use cases in the Risk Capital and Model Development group and building these models in partnership with the existing team. This will cover multiple areas such as Anti-Money Laundering, Credit Risk, Economic Capital etc.
+
+The candidate will also be working on identifying automation opportunities where existing processes can be enhanced and simplified using AI.
+
+The role also has a technology component where the candidate will participate in the assessment of the current risk technology stack and test and validate assumptions on new tools.
+
+Description:
+Use case identification:
+• Expand on the currently identified use cases by partnering with the existing model development groups and the business partners and identify other types of models/applications where ML and AI can add value. This will cover areas such as credit risk, economic capital, AML and market risk.
+• Structure above identified use cases, define operating model, manage delivery and provide
+- Data collection and manipulation
+• Collect data for model development purposes by identifying new candidate variables and predictive variables.
+• Analyze and summarize data to identify outliers and assess data quality.
+• Perform data imputation using advanced statistical techniques (multiple imputation, machine learning estimations).
+• Transform and prepare the data for developing AI models.
+- Predictive models development
+• Fully understand the existing version of the models where applicable, their limitations and all the underlying assumptions made.
+• Use the prepared data to build machine learning predictive models using advanced regression techniques such as random forests, neural networks, boosted trees, deep learning, logistic regressions, NLP etc...
+• Rank and compare the candidate models to select the best fitting models.
+• Use statistical tests to ensure the stability and robustness of the candidate models.
+• Identify new opportunities to apply machine learning in the current model development process.
+- Reasonableness assessment
+• Ensure that the models developed make business and intuitive sense by participating in sessions with the model owners, lines of businesses and including their feedback in the model.
+• Design a process to explain the output of the models on a consistent basis to understand why the models are producing these decisions.
+- Documentation
+• Document the process along the way by capturing the details around all assumptions made.
+• Keep record and detailed notes about the thought process. The models developed will serve as a proof of concept for future ML & AI models in credit risk.
+
+Qualifications
+Skills required:
+• Master or PhD candidate in Engineering, Statistics, Mathematics, Computer Science or related quantitative field.
+• 5-10 years of experience in AML, risk management and machine learning and AI techniques
+• Familiarity with risk management processes and methodologies, ideally AML
+• Familiarity with Bank credit instruments and product structures
+• Familiarity with systems management and data architecture principles
+• Experience with statistical model development and data mining
+• Proven experience using SAS, R or Python to build machine learning models
+• Strong theoretical knowledge of machine learning techniques and advanced regression methods and data imputation techniques
+• Well-developed relationship management skills.
+• Excellent influencing and negotiation skills
+• Strong problem solving skills and capacity to turnaround analysis in short period of time
+• Comfortable in a challenging environment with tight timelines
+• Excellent written and verbal communication skills
+• Capacity to cope with a high degree of ambiguity and change
+• Ability to work both independently and as part of cross-functional teams
+• Prior industry experience or academic projects with machine learning and advanced programming is preferred.
+• High-level of competency with MS Office suite of tools
+
+Trade Compliance IT builds and supports systems that enable RBC Capital Markets and Wealth Management Compliance functions to monitor and manage regulatory risk. These functions include Trade Surveillance, Retail Sales Practices Surveillance, Control Room and Conflict Monitoring, Disclosures and Registrations Management.
+
+ 
+
+You will develop and enhance software systems for the GRM Innovation Lab in Trading Compliance. The position will be responsible for developing new systems and enhancing existing systems using AI, Machine Learning and NLP solution approaches for different business problems both in Trading Compliance and for other business lines.
+
+ 
+
+Team/Culture: 
+
+This is currently a small Agile team with a Scrum Master, Technical Lead, Data Scientists and developers
+Cross-functional team with flexibility to perform tasks as required including business analysis, data analysis, application of Machine Learning methodologies,  programming and delivery of solutions 
+ 
+
+What will you do?
+
+Work in a small, flexible Agile team to build solutions
+Build Machine Learning solutions through the entire spectrum of feature engineering, creating Machine Learning models, and creating production-ready implementations
+Analyzing data, writing ETL code to transform data as required for Machine learning
+Applying knowledge of Machine learning and Natural Language Processing to determine optimal approaches for business problems
+Designing and implementing solutions from PoC phase all the way to production-ready status
+ 
+
+ 
+
+What do you need to succeed?
+
+Must-have
+
+Bachelor’s degree in Computer Science, Computer Engineering, Mathematics or related quantitative field
+Strong software development skills in one or more of Java, Scala or Python
+Able to analyze real-world datasets and extract insights according to business requirements
+Knowledge and interest in Machine learning and Natural Language Processing algorithms and methodologies
+Knowledge and interest in preparing data for Machine Learning
+Strong collaboration and communication skills
+Ability to design and implement solutions and then take them to Production Readiness
+ 
+
+Nice To Have:
+
+Master’s Degree or PhD in Computer Science, Computer Engineering, Mathematics or related quantitative field
+Experience with Continuous Integration, Dev Ops
+Knowledge of Apache Spark or other big data technologies
+Experience designing and implementing Microservice based solutions
+Knowledge of statistical packages such as R or SAS
+Knowledge of Machine Learning packages such as H2O and Data Robot
+ 
+
+We are looking for a rebel. Someone with drive and a desire to solve real world vision problems with unique solutions, who loves what they do and wants to make an impact. If you believe yourself to be innovative, challenge driven, and want to be part of a disruptive company as well as be at the forefront of one of the most exciting technologies today (and meet the requirements below), we want to here from you!
+
+Responsibilities:
+- pick best suited off-the-shelf or propose novel CV and machine learning algorithms and techniques.
+- propose optimizations/upgrades to current state of the art neural network architectures if required.
+- Ensure the performance, quality, and responsiveness of 3D shape estimation algorithms.
+- research and implement computer vision techniques to perform 3D object detection and reconstruction in real time.
+- Publishes original research and delivers presentations at conferences and events.
+- Works directly with engineers/researchers to embed of algorithms into commercial software products.
+- Keep abreast with contemporary research in the field.
+
+
+The right candidate will have:
+
+-A BSc in Computer Science, Mathematics or Engineering or equivalent working experience
+(-Preferably a Masters or PhD in Computer Vision/Machine Learning or similar)
+-At least 3 years of experience researching and implementing deep learning architectures.
+-Deep technical experience working with technologies related to artificial -intelligence, machine learning and/or deep learning.
+-A strong mathematics and statistics background, with a understanding of the following: linear algebra, fuzzy logic, bayesian inference, differential geometry, vector algebra, SVM, SVD, PCA, convex optimization.
+-Ability to read, understand and implement the latest research papers.
+-Working knowledge of frameworks like: Sci-kit learn, Tensorflow, MXnet, etc.
+-Experience with software development techniques and languages (C, C++, python, Go)
+-Ability to think strategically about business, product, and technical challenges.
+-Experience with computer vision
+-Must have deep knowledge of neural network architectures.
+-Dedicated to producing high quality code.
+
+Charger Logistics is a world class asset-based carrier. We specialize in delivering your assets, on time and on budget. With the diverse fleet of equipment, we can handle a range of freight, including dedicated loads, specialized hauls, temperature-controlled goods and HAZMAT cargo.
+
+
+Charger logistics invests time and support into its employees to provide them with the room to learn and grow their expertise and work their way up. We are entrepreneurial-minded organization that welcomes and support individual idea and strategies. We are currently expanding and looking to add a motivated individual to our team based out of our Brampton office.
+
+
+
+Responsibilities:
+
+
+
+Responsible for developing innovative ML techniques, solutions and applications
+Act as the architecture lead for the machine learning models design
+Own the deployment and socialization of customized ML capabilities, to supports analytical teams across the company
+Design and develop scalable solutions that leverage machine learning and deep learning models to meet companies requirements
+Assess the effectiveness and accuracy of new data sources and data gathering techniques.
+Translate machine learning algorithms into production-level code
+
+Develop processes and tools to monitor and analyze model performance and data accuracy.
+
+Requirements:
+
+Masters or Ph.D. in one of the following quantitative fields: Computer Science, Statistics, Mathematics, Operations Research
+Minimum of 2 to 5 years of experience in designing/architecting High performance Extract Transform Load (ETL) routines using T-SQL and SSIS.
+Significant interest in utilizing machine learning, artificial intelligence, and optimization models in the field of transportation and logistics industry
+Proficiency with deep learning frameworks ( Tensorflow 2.0 and PyTorch) and ML libraries (Keras, NumPy, Pandas and scikit-learn)
+Knowledge in statistical, data mining, classifications and NLP techniques
+Implementation and utilization of common ML algorithms (KNN, CNN, Linear Regression, Logistics Regression, Decision Tree, K-Means, Random Forest etc.)
+Demonstrated proficiency in Data Warehousing & Analytics, ETL, Dimensional Modeling
+Working experience with distributed computing environments and cloud environments (specifically Azure)
+Good understanding of NoSQL database solutions (MongoDB/Hadoop)
+Proficiency in statistical analysis, quantitative analytics, forecasting/predictive analytics, multivariate testing, and optimization algorithms
+Ability to work in a fast-paced agile software development environment
+
+We are looking for a technologist and engineer who is passionate about data analytics and machine learning / data science. You are a specialist who will drive the initiative of the cutting edge ML research using a wealth of data we have from decades of operation.
+
+The individual will need to be a driver and go-getter who has a unique way with data, very comfortable with tools to build, train and utilize models using large sets of data.
+
+Reporting to the Sr. Director of Software Development, this is a key senior role that will help implement the ML / AI and data science strategy.
+
+Your work will greatly improve the condition of transit predictive analytics as well as qualities of recommendations for transit agency, riders and operators. It will improve transit management quality in hundreds of major cities in North America and benefit millions of riders!
+
+Duties/Responsibilities:
+• Understanding business objectives to optimize prediction and analysis in transit and developing models that help to achieve them, along with metrics to track their progress
+• Analyzing the ML algorithms that could be used to solve a given problem and ranking them by their success probability
+• Prepare, process, and build data models to train and predict core transit KPIs.
+• Explore new tools and methods of improve quality of predictions and analysis.
+• Explore new use cases where ML / AI technology can add value to customer
+• Exploring and visualizing data to gain an understanding of it, then identifying differences in data distribution that could affect performance when deploying the model in the real world
+• Verifying data quality, and/or ensuring it via data cleaning
+• Supervising the data acquisition process if more data is needed
+• Finding available datasets online that could be used for training
+• Defining validation strategies
+• Defining the preprocessing or feature engineering to be done on a given dataset
+• Defining data augmentation pipelines
+• Training models and tuning their hyperparameters
+• Analyzing the errors of the model and designing strategies to overcome them
+• Deploying models to production
+• Educate the decision makers (C-level executives and VP’s) on AI / ML related product opportunities
+
+Required Skillset:
+• Master or Bachelors Degree in Computer Science, Computer Engineering or Data Science
+• 3 Years of related work experience
+• High Proficiency in C++ / C# or Python / SciPy / Jupyter Notebook / Anaconda
+• Experience with machine learning (ML) and artificial intelligence (AI) algorithms, including at least 2 of the following:
+• Support vector machine (SVM) classifiers
+• Random forests (RF)
+• K-Nearest Neighbors (KNN)
+• Deep learning algorithms and/or artificial neural networks (ANN)
+• Familiarity with machine learning methods and best practices, including preventing overfitting and knowing how to pick the right algorithm for the right job
+• Familiarity with data mining and big data algorithms and methods
+• Experience with parallel computing (e.g. Open-MPI, CUDA,)
+• Experience developing cloud-based applications
+
+Resemble AI creates high-quality synthetic voices that capture human emotion. We're a venture-backed high-growth startup that's looking to shake up an entire industry with state of the art AI.
+
+Our product changes the way that thousands of brands, media companies, creative agencies, and game studios work with voice content.
+
+We’re a remote-first team that thrives on flexibility and creativeness. However, we cover office space, equipment, and all of the other perks and benefits that make you productive. At Resemble, we believe that the key to developing a world-class product and team is by fostering innovation and enabling continuous education. One way we encourage that is through the use of Foo Fridays. Foo Fridays is time for our employees to spend time on working on anything they want, Resemble-related or not. They can learn a new technology, prototype a new feature, work on a side project, develop a new skill, or even write blog posts. If it makes you better at what you do then go for it!
+
+We're looking for well-rounded software engineers that are looking to make an impact from day one. We're a small team, but you'll be part of an ambitious, productive team that values transparency and collaboration. Our deep learning tech stack involves a mixture of Tensorflow and Pytorch.
+
+
+Skills:
+
+Familiarity with Tensorflow or Pytorch
+Experience with Speech Processing or similar
+Familiarity with Natural Language Processing
+Familiarity with deep generative model architectures (GAN, VAE, etc)
+Comfortable working with multiple codebases
+Able to think about large architectural design patterns
+Able to use Docker effectively
+Knowledge of scalable, distributed systems using Cloud Providers such as Google Cloud or AWS
+

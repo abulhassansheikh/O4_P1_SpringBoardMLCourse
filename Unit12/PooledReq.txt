@@ -1,0 +1,162 @@
+MS/PHD or equivalent in Computer Science, Engineering, Statistics, Mathematics, or related technical field
+Experience in developing machine-learning algorithms, statistical and mathematical optimization models, and simulation and visualization tools
+Strong understanding of regression modeling, time series analysis, cluster analysis, machine-learning concepts such as supervised and unsupervised learning, classification, random forest, neural nets, etc.
+Ability to identify predictive attributes of data sets and perform feature engineering to improve machine learning results
+Experience with manipulating big data sets via SQL able to process, filter and present large quantities of data
+Experience in one or more programming languages (e.g. Python, R, Scala, etc.)
+Experience with Databricks, Tableau and AutoML tools an asset
+
+Qualifications (Required):
+• Bachelor's degree in Engineering (preferably Chemical, Systems, Mechanical, Civil or Electrical), Computer Science, Mathematics or equivalent from an accredited University and 5+ years of related work experience, or (preferred) a postgraduate degree with 3+ years of related work experience, or an equivalent combination of education and experience;
+• Solid knowledge and experience with a range of ML methods (e.g., multivariate analysis, cluster analysis, decision trees, random forest, SVM, neural networks, logistics regression)
+• Experience developing and applying innovative data analytics solutions in industrial and business settings.
+• Experience with business case analysis (problem identification, quantitative modeling and problem solving).
+• Hands-on experience with R, Python or equivalent tools to manipulate and transform data;
+• Exposure to Data visualization tools and techniques;
+• Exceptional skills and abilities to clearly communicate to customers through graphical representation / visualizations, reports, algorithms, models, and dashboards.
+
+Assets:
+• Experience with deep learning frameworks (Keras, TensorFlow, PyTorch) and cloud technologies (AWS, GCP, MS Azure) is desirable.
+• Experience working with databases (Teradata, Oracle, SQL, NoSQL dbs, etc.) and interpreting data;
+• Experience developing software user interfaces
+• Knowledge and/or experience applying mathematical optimization methods (linear programming, nonlinear programming and/or mixed-integer linear programming)
+
+Skills:
+• Keenly interested in solving very challenging client problems;
+• Willingness to take technological risks involved in creating innovative solutions;
+• Demonstrated ability to work both collaboratively and independently when appropriate;
+• Ability to build relationships and effectively influence colleagues, clients and stakeholders;
+• Excellent communication, interpersonal and teamwork skills in complex and changing environments.
+
+You have a masters degree or PhD in computer science or a related field.
+• You are fluent in Python programming and its machine learning stack
+• You are an expert in machine learning and data modeling.
+• You have knowledge/experience with software engineering and deployment to production
+• You have experience with at least one of the fields listed above.
+• You possess a deep understanding of clustering, manifold learning and predictive modeling techniques.
+• You can use big data tools such as Spark for development
+• You can work independently and take matters into your own hands.
+
+Experience with any of the following is considered a plus:
+• Sensor data modeling from mobile devices or wearables
+• Data engineering technologies (Spark, Kafka, database,...)
+• Java
+• Mobile programming (Android or iOS)
+Research, develop and build machine learning models that generate insightful recommendations for customers
+• Work alongside data scientists and data engineers to deploy models in production
+• Work alongside product management and other stakeholders to translate business requirements into machine learning functionality
+• Conduct statistical analysis to discover trends in data
+• Develop optimization algorithms to improve customers operations
+• Help distill complex machine learning products to various audiences
+• Identify data driven opportunities across the Nulogy platform and communicate findings to the appropriate stakeholders
+• Develop domain expertise in supply chain
+
+EDUCATION
+• Degree in Computer Science, Statistics, Math, Operations Research, Engineering or equivalent
+• MSc in related fields a big plus
+
+EXPERIENCE
+• 3-5 years of industry experience working as a Data Scientist
+• Deep knowledge in machine learning, data mining and statistics
+• Extensive experience using Python (pandas, numpy, scikit-learn, etc.)
+• Expert SQL experience
+• Exposure to optimization and scheduling algorithms
+• Experience working in an agile environment
+
+NICE TO HAVE
+• Strong software engineering fundamentals
+• Expertise in optimization and operations research
+• Strong business acumen
+
+ABOUT YOU
+• You are an expert in python
+• You are an expert in applied statistics, data mining and machine learning
+• You are a creative problem solver
+• You are capable of narrating the story behind the data to a non-technical audience
+• You value autonomy, and are capable of owning data projects from start to finish
+• You are comfortable working with messy data
+• You have experience with SQL
+
+
+• Master or PhD candidate in Engineering, Statistics, Mathematics, Computer Science or related quantitative field.
+• 5-10 years of experience in AML, risk management and machine learning and AI techniques
+• Familiarity with risk management processes and methodologies, ideally AML
+• Familiarity with Bank credit instruments and product structures
+• Familiarity with systems management and data architecture principles
+• Experience with statistical model development and data mining
+• Proven experience using SAS, R or Python to build machine learning models
+• Strong theoretical knowledge of machine learning techniques and advanced regression methods and data imputation techniques
+• Well-developed relationship management skills.
+• Excellent influencing and negotiation skills
+• Strong problem solving skills and capacity to turnaround analysis in short period of time
+• Comfortable in a challenging environment with tight timelines
+• Excellent written and verbal communication skills
+• Capacity to cope with a high degree of ambiguity and change
+• Ability to work both independently and as part of cross-functional teams
+• Prior industry experience or academic projects with machine learning and advanced programming is preferred.
+• High-level of competency with MS Office suite of tools
+
+Bachelor’s degree in Computer Science, Computer Engineering, Mathematics or related quantitative field
+Strong software development skills in one or more of Java, Scala or Python
+Able to analyze real-world datasets and extract insights according to business requirements
+Knowledge and interest in Machine learning and Natural Language Processing algorithms and methodologies
+Knowledge and interest in preparing data for Machine Learning
+Strong collaboration and communication skills
+Ability to design and implement solutions and then take them to Production Readiness
+ 
+
+Nice To Have:
+
+Master’s Degree or PhD in Computer Science, Computer Engineering, Mathematics or related quantitative field
+Experience with Continuous Integration, Dev Ops
+Knowledge of Apache Spark or other big data technologies
+Experience designing and implementing Microservice based solutions
+Knowledge of statistical packages such as R or SAS
+Knowledge of Machine Learning packages such as H2O and Data Robot
+
+-A BSc in Computer Science, Mathematics or Engineering or equivalent working experience
+(-Preferably a Masters or PhD in Computer Vision/Machine Learning or similar)
+-At least 3 years of experience researching and implementing deep learning architectures.
+-Deep technical experience working with technologies related to artificial -intelligence, machine learning and/or deep learning.
+-A strong mathematics and statistics background, with a understanding of the following: linear algebra, fuzzy logic, bayesian inference, differential geometry, vector algebra, SVM, SVD, PCA, convex optimization.
+-Ability to read, understand and implement the latest research papers.
+-Working knowledge of frameworks like: Sci-kit learn, Tensorflow, MXnet, etc.
+-Experience with software development techniques and languages (C, C++, python, Go)
+-Ability to think strategically about business, product, and technical challenges.
+-Experience with computer vision
+-Must have deep knowledge of neural network architectures.
+-Dedicated to producing high quality code.
+
+Masters or Ph.D. in one of the following quantitative fields: Computer Science, Statistics, Mathematics, Operations Research
+Minimum of 2 to 5 years of experience in designing/architecting High performance Extract Transform Load (ETL) routines using T-SQL and SSIS.
+Significant interest in utilizing machine learning, artificial intelligence, and optimization models in the field of transportation and logistics industry
+Proficiency with deep learning frameworks ( Tensorflow 2.0 and PyTorch) and ML libraries (Keras, NumPy, Pandas and scikit-learn)
+Knowledge in statistical, data mining, classifications and NLP techniques
+Implementation and utilization of common ML algorithms (KNN, CNN, Linear Regression, Logistics Regression, Decision Tree, K-Means, Random Forest etc.)
+Demonstrated proficiency in Data Warehousing & Analytics, ETL, Dimensional Modeling
+Working experience with distributed computing environments and cloud environments (specifically Azure)
+Good understanding of NoSQL database solutions (MongoDB/Hadoop)
+Proficiency in statistical analysis, quantitative analytics, forecasting/predictive analytics, multivariate testing, and optimization algorithms
+Ability to work in a fast-paced agile software development environment
+
+• Master or Bachelors Degree in Computer Science, Computer Engineering or Data Science
+• 3 Years of related work experience
+• High Proficiency in C++ / C# or Python / SciPy / Jupyter Notebook / Anaconda
+• Experience with machine learning (ML) and artificial intelligence (AI) algorithms, including at least 2 of the following:
+• Support vector machine (SVM) classifiers
+• Random forests (RF)
+• K-Nearest Neighbors (KNN)
+• Deep learning algorithms and/or artificial neural networks (ANN)
+• Familiarity with machine learning methods and best practices, including preventing overfitting and knowing how to pick the right algorithm for the right job
+• Familiarity with data mining and big data algorithms and methods
+• Experience with parallel computing (e.g. Open-MPI, CUDA,)
+• Experience developing cloud-based applications
+Familiarity with Tensorflow or Pytorch
+Experience with Speech Processing or similar
+Familiarity with Natural Language Processing
+Familiarity with deep generative model architectures (GAN, VAE, etc)
+Comfortable working with multiple codebases
+Able to think about large architectural design patterns
+Able to use Docker effectively
+Knowledge of scalable, distributed systems using Cloud Providers such as Google Cloud or AWS
+
